@@ -1,0 +1,11 @@
+{
+  "name": "monikabot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot - Official Repository",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Marco",
+  "license": "MIT"
+}
