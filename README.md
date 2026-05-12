@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://telegra.ph/file/07f0f62d854e41416e949.jpg" alt="MonikaBot-MD" width="500" />
+  <img src="[https://telegra.ph/file/07f0f62d854e41416e949.jpg](https://files.catbox.moe/zxe624.png)" alt="MonikaBot-MD" width="500" />
 
   # 🎀 MonikaBot-MD 🎀
 
