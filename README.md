@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner Principal -->
-  <img src="https://files.catbox.moe/zxe624.png" alt="MonikaBot-MD" width="100%" />
+  <img src="[https://files.catbox.moe/zxe624.png](https://files.catbox.moe/wy97b1.jpeg)" alt="MonikaBot-MD" width="100%" />
 
   <br>
 
@@ -14,7 +14,7 @@
   </p>
 
   <p align="center">
-    <b>"Just Monika. O bot perfeito para o seu WhatsApp."</b>
+    <b>"MonikaBot 100% feliz em te ajudar."</b>
   </p>
 </div>
 
@@ -22,12 +22,12 @@
 
 ## 🎀 Sobre o Projeto
 
-A **MonikaBot-MD** é um sistema de automação multifuncional desenvolvido com foco em design moderno e alta performance. Este repositório serve como vitrine e central de suporte para o projeto.
+A **MonikaBot-MD** é um Bot do whatsapp pronta a te ajudar em qualquer tarefa!
 
 ### 🚀 Recursos Inclusos:
 *   ✅ **Sticker Maker:** Criação de figurinhas estáticas e animadas.
 *   ✅ **Music & Video:** Integração completa com Spotify e YouTube.
-*   ✅ **GKR Style:** Gerador de textos personalizados e apelidos.
+*   ✅ **ADM HELP:**Comandos adm para otimização no seu grupo.
 *   ✅ **IA Integration:** Conversas inteligentes e processamento de dados.
 
 ---
