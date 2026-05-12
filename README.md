@@ -6,7 +6,7 @@
 
 # ✦ MonikaBot-MD ✦
 
-### Uma experiência moderna para WhatsApp Multi Device
+### Seu Bot whatsApp 100% pronta a te ajudar
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=Bot+WhatsApp+Multi+Device;Sistema+moderno+e+otimizado;Downloads%2C+IA%2C+Administra%C3%A7%C3%A3o+e+muito+mais;Desenvolvido+por+M4rzz" />
