@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner Principal -->
-  <img src="https://files.catbox.moe/zxe624.png](https://files.catbox.moe/wy97b1.jpeg" alt="MonikaBot-MD" width="100%" />
+  <img src="https://files.catbox.moe/wy97b1.jpeg" alt="MonikaBot-MD" width="100%" />
 
   <br>
 
@@ -22,19 +22,19 @@
 
 ## 🎀 Sobre o Projeto
 
-A **MonikaBot-MD** é um Bot do whatsapp pronta a te ajudar em qualquer tarefa!
+A **MonikaBot-MD** é um Bot do WhatsApp desenvolvido para ser a sua assistente definitiva, pronta para ajudar em qualquer tarefa com eficiência e estilo.
 
 ### 🚀 Recursos Inclusos:
-*   ✅ **Sticker Maker:** Criação de figurinhas estáticas e animadas.
-*   ✅ **Music & Video:** Integração completa com Spotify e YouTube.
-*   ✅ **ADM HELP:**Comandos adm para otimização no seu grupo.
-*   ✅ **IA Integration:** Conversas inteligentes e processamento de dados.
+* ✅ **Sticker Maker:** Criação de figurinhas estáticas e animadas de alta qualidade.
+* ✅ **Music & Video:** Downloads e buscas integradas com Spotify e YouTube.
+* ✅ **ADM HELP:** Comandos administrativos avançados para otimização e gestão de grupos.
+* ✅ **IA Integration:** Conversas inteligentes e processamento de dados em tempo real.
 
 ---
 
 ## 📞 Contacto & Aquisição
 
-Para obter a versão completa do bot ou solicitar suporte técnico, entre em contacto:
+Este repositório é uma vitrine do projeto. Para obter a versão completa com todos os módulos ativos ou suporte técnico, utilize os canais abaixo:
 
 | Método | Link |
 | :--- | :--- |
