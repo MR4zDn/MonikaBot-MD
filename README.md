@@ -19,7 +19,7 @@
   
   <img src="https://img.shields.io/github/forks/MR4zDn/MonikaBot-MD?style=for-the-badge&logo=github&color=da70d6">
   
-  <img src="https://img.shields.io/badge/Version-2.0-ff1493?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-3.0-ff1493?style=for-the-badge">
   
   <img src="https://img.shields.io/badge/Status-Online-00C853?style=for-the-badge">
 </p>
