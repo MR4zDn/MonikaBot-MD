@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner Principal -->
-  <img src="[https://files.catbox.moe/zxe624.png](https://files.catbox.moe/wy97b1.jpeg" alt="MonikaBot-MD" width="100%" />
+  <img src="https://files.catbox.moe/zxe624.png](https://files.catbox.moe/wy97b1.jpeg" alt="MonikaBot-MD" width="100%" />
 
   <br>
 
