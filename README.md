@@ -1,68 +1,50 @@
 <div align="center">
-  <img src="[https://telegra.ph/file/07f0f62d854e41416e949.jpg](https://files.catbox.moe/zxe624.png)" alt="MonikaBot-MD" width="500" />
+  <!-- Banner Principal -->
+  <img src="https://files.catbox.moe/zxe624.png" alt="MonikaBot-MD" width="100%" />
 
-  # 🎀 MonikaBot-MD 🎀
+  <br>
 
+  <!-- Badges / Escudos Estilizados -->
   <p align="center">
-    <a href="https://github.com/MR4zDn/MonikaBot-MD">
-      <img src="https://img.shields.io/github/stars/MR4zDn/MonikaBot-MD?style=for-the-badge&color=ff69b4&logo=github" alt="Stars" />
-    </a>
-    <a href="https://wa.me/SEU_NUMERO">
+    <img src="https://img.shields.io/github/stars/MR4zDn/MonikaBot-MD?style=for-the-badge&color=ff69b4&logo=github" alt="Stars" />
+    <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge" alt="Status" />
+    <a href="https://wa.me/351912345678">
       <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
     </a>
   </p>
 
-  ---
-  
-  ### 🌸 "Just Monika. Just the perfect bot for you." 🌸
-  
   <p align="center">
-    Este é o repositório oficial da <b>MonikaBot-MD</b>. Um sistema de automação multifuncional, <br>
-    otimizado para performance e com foco em uma experiência de usuário única.
+    <b>"Just Monika. O bot perfeito para o seu WhatsApp."</b>
   </p>
 </div>
 
 ---
 
-## 🏆 Diferenciais do Projeto
-<table align="center">
-  <tr>
-    <td align="center"><b>🚀 Velocidade</b></td>
-    <td align="center"><b>🎨 Design</b></td>
-    <td align="center"><b>🧠 Inteligência</b></td>
-  </tr>
-  <tr>
-    <td>Respostas instantâneas usando Baileys de última geração.</td>
-    <td>Interface de console personalizada e menus em Glassmorphism.</td>
-    <td>Integração avançada com APIs de IA e busca.</td>
-  </tr>
-</table>
+## 🎀 Sobre o Projeto
+
+A **MonikaBot-MD** é um sistema de automação multifuncional desenvolvido com foco em design moderno e alta performance. Este repositório serve como vitrine e central de suporte para o projeto.
+
+### 🚀 Recursos Inclusos:
+*   ✅ **Sticker Maker:** Criação de figurinhas estáticas e animadas.
+*   ✅ **Music & Video:** Integração completa com Spotify e YouTube.
+*   ✅ **GKR Style:** Gerador de textos personalizados e apelidos.
+*   ✅ **IA Integration:** Conversas inteligentes e processamento de dados.
 
 ---
 
-## 🛠️ Funcionalidades Premium
-- [x] **Sticker Maker:** Imagem, Vídeo e GIF para figurinhas.
-- [x] **Music & Video:** Downloads de Spotify e YouTube integrados.
-- [x] **AI Chat:** Converse com a Monika em tempo real.
-- [x] **Group Manager:** Controle total sobre seus grupos.
-- [x] **GKR Style:** Gerador de apelidos e textos estilizados.
+## 📞 Contacto & Aquisição
 
----
+Para obter a versão completa do bot ou solicitar suporte técnico, entre em contacto:
 
-## 👤 Desenvolvedor & Suporte
-
-Este repositório é uma **versão de vitrine**. Para adquirir a versão completa com todos os módulos ativos ou solicitar suporte, utilize os canais abaixo:
-
-| Canal | Link |
+| Método | Link |
 | :--- | :--- |
-| **WhatsApp Owner** | [Falar com Marco](https://wa.me/SEU_NUMERO) |
-| **Portfólio** | [M4rzz Portfolio](https://m4rzzdnz-portefolio.netlify.app/) |
-| **Comunidade** | [Grupo de Suporte](#) |
+| **👤 Developer** | [Marco (M4rzz)](https://github.com/MR4zDn) |
+| **📱 WhatsApp** | [Enviar Mensagem](https://wa.me/351912345678) |
+| **🌐 Portfólio** | [Aceder Website](https://m4rzzdnz-portefolio.netlify.app/) |
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4ZzRnd3JqZnd4ZzRnd3JqZnd4ZzRnd3JqZnd4ZzRnd3JmJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/v9G3NGdE81nVK/giphy.gif" width="300" />
-  
-  <p><i>Desenvolvido com ❤️ por <a href="https://github.com/MR4zDn">M4rzz</a></i></p>
+  <p><i>Desenvolvido com dedicação por <a href="https://github.com/MR4zDn">M4rzz</a></i></p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4ZzRnd3JqZnd4ZzRnd3JqZnd4ZzRnd3JqZnd4ZzRnd3JmJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/v9G3NGdE81nVK/giphy.gif" width="150" />
 </div>
